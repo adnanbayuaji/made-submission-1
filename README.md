@@ -1,4 +1,4 @@
-# ProjectCatalogueMovieS1
+# made-submission-1
 Aplikasi katalog movie untuk submission pertama beasiswa MADE (Menjadi Android Developer Expert) dari Dicoding https://www.dicoding.com/academies/14/ .
 
 ### Persyaratan aplikasi
